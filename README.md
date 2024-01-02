@@ -31,7 +31,7 @@ Welcome to GameStash, a React-based website that lets users explore and save the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hemanth110702/GameStash.git
+   git clone https://github.com/prashant292/GameStash.git
    cd GameStash
 
    ```
@@ -117,7 +117,6 @@ Welcome to GameStash, a React-based website that lets users explore and save the
     </tr> 
 </table>
 
-## Link
-[🚀 Live Page](https://game-stash.netlify.app/)
 
-<p align="right"><a href="#top">⬆️ Back to Top</a></p>
+
+<p align="ight><a hef"#">⬆️ Back to Top</a></p>
